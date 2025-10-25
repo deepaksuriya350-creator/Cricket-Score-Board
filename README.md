@@ -1,0 +1,1 @@
+The Cricket Score Sheet is a simple C project to record and display match statistics. It tracks runs, wickets, overs, extras, and player performance details. The program uses two structures for storing batsman and bowler data. Users can view batsman stats, bowler stats, match summary, or exit via a menu.
